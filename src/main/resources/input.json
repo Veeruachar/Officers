@@ -1,0 +1,13 @@
+{
+    "officer":{
+        "id": 1,
+        "name": "Veeresh",
+        "grade": "L1",
+        "officerId": 1771666,
+        "salary": 106000
+    },
+    "payroll":{
+        "id": 1,
+        "officerId": 1771666
+    }
+}
